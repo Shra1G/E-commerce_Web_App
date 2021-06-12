@@ -60,7 +60,7 @@ function Home() {
         />
         <Product
           id="12332137"
-          title="Kona Theertha's i7 9th Gen 15.6-inch FHD Gaming Laptop (16GB/1TB HDD + 512GB SSD/Windows 10/NVIDIA RTX 2070 8GB Graphics/Shadow Black), 15-dh0138TX"
+          title="HP OMEN i7 9th Gen 15.6-inch FHD Gaming Laptop (16GB/1TB HDD + 512GB SSD/Windows 10/NVIDIA RTX 2070 8GB Graphics/Shadow Black), 15-dh0138TX"
           price={189999}
           rating={5}
           image="https://images-na.ssl-images-amazon.com/images/I/817CMIW9NsL._SL1500_.jpg"
